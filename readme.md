@@ -1,0 +1,1 @@
+#Apicurio enum reflective schema reproducer
